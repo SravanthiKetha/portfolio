@@ -35,7 +35,6 @@
 <body>
   <header>
     <h1>Welcome to My Portfolio</h1>
-    <img src="profile-image.jpg" alt="Profile Image" width="200" height="200">
   </header>
   <div class="container">
     <h2>About Me</h2>
